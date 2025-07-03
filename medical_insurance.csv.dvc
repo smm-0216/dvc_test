@@ -1,0 +1,5 @@
+outs:
+- md5: xñ.ñ.ñ.ñ.ñ.ñ.ñ., 
+  size: 115142
+  hash: md5
+  path: medical_insurance.csv
