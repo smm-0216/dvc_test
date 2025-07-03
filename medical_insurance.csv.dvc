@@ -1,5 +1,5 @@
 outs:
-- md5: xñ.ñ.ñ.ñ.ñ.ñ.ñ., 
+- md5: 5045a1b6b5cb926d7769953a366d385c
   size: 115142
   hash: md5
   path: medical_insurance.csv
